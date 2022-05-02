@@ -55,12 +55,25 @@ ul {
 .theader {
   width: 500px;
   height: 20px;
-  background: rgb(10, 86, 226);
+  background: rgb(62, 122, 233);
   color: white;
   text-align: left;
 }
 
-.row {
+.row1 {
+    width: 500px;
+    height: 20px;
+    background: rgb(137, 197, 236);
+    color: black;
+    text-align: left;
+}
+
+.row2 {
+    width: 500px;
+    height: 20px;
+    background: rgb(255, 255, 255);
+    color:black;
+    text-align: left;
 }
 
 /* Banner bottom */

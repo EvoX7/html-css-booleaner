@@ -1,0 +1,89 @@
+/* Font importato  */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&family=Varela+Round&display=swap');
+ 
+
+/* Titolo principale */
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+/* Scritto da: Testo grigio */
+.greytext {
+    color:gray;
+
+}
+/* Scritto da: font-size */
+.firma_top {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+/* Scritto da: data */
+#data_top {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#boo_color {
+    color: rgb(54, 97, 238);
+}
+
+
+/* Didascalia foto */
+.didascalia {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+/* Padding lista */
+ul {
+    padding: 15px;
+}
+
+/* Testo evidenziato */
+
+.giallo {
+    background-color: #eef121;
+  }
+ 
+  /* Tabella */
+  .content-table {
+
+  }
+  
+  
+.theader {
+    width: 500px;
+    height: 20px;
+    background: rgb(10, 86, 226);
+    color: white;
+    text-align: left;
+
+}
+
+.row {
+
+}
+
+  /* Banner bottom */
+
+h3 {
+    padding-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+  .banner_bottom1 { 
+margin-bottom: 10px;
+  }
+
+ .banner_bottom2 {
+      margin-bottom: 30px;
+  }

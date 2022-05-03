@@ -2,6 +2,29 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&family=Varela+Round&display=swap");
 
+/* Banner top  */
+.banner_container {
+  text-align: center;
+  margin: 0% auto;
+  width: 98vw;
+  height: 20vh;
+  background: rgb(45, 186, 230);
+}
+.banner_top {
+}
+
+/* Logo */
+
+#logo_container {
+  position: relative;
+}
+
+#logo {
+  position: absolute;
+  width: 300px;
+  bottom: 600px;
+  left: 16px;
+}
 /* Titolo principale */
 h1 {
   font-family: "Roboto", sans-serif;
@@ -43,15 +66,11 @@ ul {
 }
 
 /* Testo evidenziato */
-
 .giallo {
   background-color: #eef121;
 }
 
 /* Tabella */
-.content-table {
-}
-
 .theader {
   width: 500px;
   height: 20px;
@@ -61,19 +80,19 @@ ul {
 }
 
 .row1 {
-    width: 500px;
-    height: 20px;
-    background: rgb(137, 197, 236);
-    color: black;
-    text-align: left;
+  width: 500px;
+  height: 20px;
+  background: rgb(137, 197, 236);
+  color: black;
+  text-align: left;
 }
 
 .row2 {
-    width: 500px;
-    height: 20px;
-    background: rgb(255, 255, 255);
-    color:black;
-    text-align: left;
+  width: 500px;
+  height: 20px;
+  background: rgb(255, 255, 255);
+  color: black;
+  text-align: left;
 }
 
 /* Banner bottom */

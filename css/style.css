@@ -9,29 +9,10 @@
   width: 98vw;
   height: 20vh;
   background: rgb(45, 186, 230);
-}
-.banner_top1 {
-  position: absolute;
-  clip: rect(0px, 550px, 125px, 0px);
-  width: 480px;
-  bottom: 370px;
-  left: 5px;
+  background-image: url("../img/pattern.png");
+  background-size: 40%;
 }
 
-.banner_top2 {
-  position: absolute;
-  clip: rect(0px, 550px, 125px, 0px);
-  width: 480px;
-  bottom: 370px;
-  left: 450px;
-}
-.banner_top3 {
-  position: absolute;
-  clip: rect(0px, 550px, 125px, 0px);
-  width: 480px;
-  bottom: 370px;
-  left: 865px;
-}
 /* Logo */
 
 #logo_container {
@@ -40,10 +21,10 @@
 }
 
 #logo {
-    position: absolute;
-    width: 250px;
-    top: 50px;
-    left: 5px;
+  position: absolute;
+  width: 250px;
+  top: 50px;
+  left: 5px;
 }
 /* Titolo principale */
 h1 {
@@ -72,6 +53,7 @@ h1 {
 
 #boo_color {
   color: rgb(54, 97, 238);
+  text-decoration: none;
 }
 
 /* Didascalia foto */
